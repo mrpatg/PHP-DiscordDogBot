@@ -1,0 +1,14 @@
+{
+    "name": "mrpat/php-discord-dog-bot",
+    "description": "PHP Discord Dog Bot",
+    "authors": [
+        {
+            "name": "Patrick Godbey",
+            "email": "mrpatg@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^4.0",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
